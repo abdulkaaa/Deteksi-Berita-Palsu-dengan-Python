@@ -24,7 +24,7 @@ from sklearn.linear_model import PassiveAggressiveClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 
 #Membaca data
-dataframenya = pd.read_csv("news.csv")
+dataframenya = pd.read_csv("contoh-berita.csv")
 
 #menampilkan shape dan lima baris pertama dalam dataset
 print("shape : ", dataframenya.shape)
