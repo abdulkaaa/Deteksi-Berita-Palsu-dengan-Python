@@ -1,7 +1,11 @@
 # Deteksi-Berita-Palsu-dengan-Python
 Penerapan Passive Aggressive Classifier dalam pendeteksian berita palsu dengan Python.
 
-Sumber: [Data-Flair](https://data-flair.training/)
+Sebelumnya, percobaan ini telah dilakukan oleh [Data-Flair](https://data-flair.training/).
+
+Saya melakukan percobaan ini dengan menggunakan Google Colaboratory.
+
+Hasil percobaan yang saya lakukan dapat dilihat [di sini](https://colab.research.google.com/drive/1devttGsOx6KMDdLcOROAu0hK006NLVPR?usp=sharing).
 
 ## Data
 - Dataset yang digunakan pada proyek python ini yaitu news.csv.
